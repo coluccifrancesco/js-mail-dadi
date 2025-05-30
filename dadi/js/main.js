@@ -1,5 +1,3 @@
-//   http://127.0.0.1:3000/dadi/index.html
-
 //   Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 // Chiedo al giocatore che numero vuole da 1 a 6
