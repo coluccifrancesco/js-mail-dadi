@@ -5,6 +5,7 @@ let emailPrompt = prompt("Inserisci la tua email gentilmente");
 
 for (let i = 0; i < emailList.length; i++){
     if(emailPrompt == emailList[i]){
+        // get the item for current iteration creating a const
         console.log('Email accettata: Benvenuto!')
         break
     } else {
